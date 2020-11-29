@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+h2{
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
+h3{
+    text-align: inherit;
+}
+h5{ 
+    font-size: 15px;
+}
+h4{
+    text-align: center;
+}
+.container1 h2 h6{
+    text-align: right;
+}
